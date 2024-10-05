@@ -18,5 +18,5 @@
 Screenshot for POC
 ![VC4_Diagram](VC4_Diagram.jpg "Diagram")
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > You can contact me for complete script
